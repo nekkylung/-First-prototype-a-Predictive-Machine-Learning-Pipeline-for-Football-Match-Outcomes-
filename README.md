@@ -1,4 +1,4 @@
-# ⚽ Predictive Machine Learning Pipeline for Football Match Outcomes  
+# ⚙️ First prototype: a Predictive Machine Learning Pipeline for Football Match Outcomes ⚽
 
 ## Executive Summary  
 This project presents the **first prototype of a predictive machine learning pipeline** designed to forecast football match outcomes in European leagues. The workflow integrates **multiple data sources**, applies **domain-specific feature engineering**, and leverages a **Random Forest Classifier** to predict results (Home Win, Draw, Away Win). The analysis demonstrates how **sports analytics and machine learning** can be combined to generate interpretable, data-driven insights for football predictions.  
